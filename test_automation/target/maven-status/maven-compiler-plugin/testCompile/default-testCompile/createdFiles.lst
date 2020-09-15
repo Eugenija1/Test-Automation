@@ -1,0 +1,13 @@
+project\service\TestDataReader.class
+project\utils\TestListener.class
+project\test\GoogleCloudTest.class
+project\page\CalculatorPage.class
+project\utils\StringUtils.class
+project\page\HomePage.class
+project\model\CalculatorForm.class
+project\driver\DriverSingleton.class
+project\model\SelectContainer.class
+project\test\CommonConditions.class
+project\service\CalculatorFormCreator.class
+project\page\AbstractPage.class
+project\page\SearchResultsPage.class
